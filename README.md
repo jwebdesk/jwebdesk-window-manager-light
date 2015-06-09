@@ -1,0 +1,1 @@
+# jwebdesk-window-manager-light
